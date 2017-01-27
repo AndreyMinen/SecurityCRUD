@@ -1,0 +1,65 @@
+body{
+    background: #ccc;
+}
+body {
+
+}
+
+span {
+    font-size: 25px;
+    color: #494949;
+    margin-left: 550px;
+}
+
+.data_table table {
+    background: white;
+    text-align: center;
+    width: 1000px;
+    height: 50px;
+}
+
+.data_table {
+    margin-top: 20px;
+    margin-left: 120px;
+}
+
+body a {
+    text-decoration: none;
+    font-size: 13px;
+    color: #565656;
+}
+
+body a:hover {
+    color: #7F0000;
+}
+
+.form-edit ul {
+    list-style-type: none;
+}
+
+.form-edit ul li {
+    color: #565656;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.form-edit {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.form-edit form {
+    margin-left: 40px;
+}
+
+.readme {
+    color: #565656;
+    font-size: 15px;
+    margin-left: 480px;
+    margin-top: 8px;
+}
+
+.data_table tr td a {
+    font-size: 15px;
+    text-decoration: underline;
+}
